@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(255, 203, 140, 0.993);
+}
+
+.page-title {
+    font-size: 50px;
+    text-align: center;
+    background-color:coral;
+}
+
+a.navbutton{
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+a.backbutton {
+    font-size: 30px;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+}
+
+.margin-right {
+    margin-right: 20px;
+}
+
+.page-content {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.img-size {
+    width: 500px;
+    height: auto;
+}
